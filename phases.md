@@ -1,6 +1,6 @@
 ## Phases
 
-1. [Research](research.md)
+1. [Research](research)
 2. [Requirments](requirments.md)
 3. Use Case
 4. Design UI
